@@ -1,12 +1,13 @@
 # ⛩️ DocuTalk-AI: Japan Travel Assistant
 
-> **Status: Work-in-Progress (On Hiatus) ⏸️** > This project was built during a fast-paced "Vibe Coding" session. It currently serves as a functional prototype, but I plan to revisit and refine the architecture when time permits.
+> **Status: Work-in-Progress (On Hiatus) ⏸️** 
+> This project was built during a fast-paced "Vibe Coding" session. It currently serves as a functional prototype, but I plan to revisit and refine the architecture when time permits.
 
 ---
 
 ## 🔗 Project Links
-* **Live App:** [Click here to try DocuTalk-AI]([https://docutalk-ai-project.streamlit.app/])
-* **Progress Tracker:** [View the Feature Log & Roadmap]([https://docs.google.com/spreadsheets/d/1tE6vBlYt32DRGJ5xofVxmgQE_S-F2TqvcMeimvGnoo4/edit?usp=sharing])
+* **Live App:** [Click here to try DocuTalk-AI](https://docutalk-ai-project.streamlit.app/)
+* **Progress Tracker:** [View the Feature Log & Roadmap](https://docs.google.com/spreadsheets/d/1tE6vBlYt32DRGJ5xofVxmgQE_S-F2TqvcMeimvGnoo4/edit?usp=sharing)
 
 ---
 
